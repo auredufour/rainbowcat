@@ -1,0 +1,17 @@
+@import 'setup';
+
+.container {
+	max-width: 900px;
+	margin: 0 auto;
+	background-color: #f54;
+	display: flex;
+	flex-flow: row wrap;
+	color: #fff;
+	margin: 3rem;
+
+	h1 {
+		margin: 3rem;
+	}
+
+
+}
